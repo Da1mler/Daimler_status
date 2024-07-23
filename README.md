@@ -14,13 +14,14 @@ Enhance your FiveM server's player information display with the Daimler Status S
 
 ### **Installation:**
 
-1. **Download:** Get the latest release from our [GitHub repository]().
+1. **Download:** Get the latest release from our [GitHub repository](https://github.com/Da1mler/Daimler_status).
 2. **Extract Files:** Unpack the downloaded ZIP file.
 3. **Server Resources:** Move the script folder into your FiveM server's resources directory.
 4. **Configuration:** Add `start Daimler_status` to your `server.cfg` file.
 5. **Restart:** Restart your FiveM server to apply changes.
 
 Make sure you have installed ox_lib
+
 ox_lib installation: https://overextended.dev/ox_lib
 
 ### **Usage:**
